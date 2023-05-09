@@ -12,7 +12,7 @@ body{
   border-style:solid;
   border-color:#f8a6aa;
   border-width:10px;
-  background-image:linear-gradient(#f78295,#f5c8dd);
+  background-image: linear-gradient(to bottom right,#F7D8DE,#F88D9D);
 }
 
 h2{
@@ -29,7 +29,7 @@ h2{
   margin-left:60px;
   margin-top:190px;
   position:absolute;
-  background-color:#f2bbc8;
+  background-image: linear-gradient(to right,#F7D8DE,#F88D9D);
   text-align:center;
 }
 .pwd{
@@ -41,7 +41,7 @@ h2{
   margin-left:60px;
   margin-top:255px;
   position:absolute;
-  background-color:#f2bbc8;
+  background-image: linear-gradient(to right,#F7D8DE,#F88D9D);
   text-align:center;
 }
 .remember{
@@ -61,7 +61,7 @@ h2{
   position:absolute;
   font-size:18px;
   color:white;
-  background-color:rgba(67,29,88,255);
+  background-image: linear-gradient(to right,#251c47,#4d1d5a);
   cursor:pointer;
 }
 p.forget{
@@ -96,7 +96,7 @@ margin-left:115px;
   position:absolute;
   padding:10px 10px;
   font-size:15px;
-  background-color:#d1b0d0;
+  background-image: linear-gradient(to right,#fcf8f8,#e7b7c5);
   cursor:pointer;
 }
 .btn2{
@@ -109,7 +109,7 @@ margin-left:115px;
   padding:10px 10px;
   position:absolute;
   font-size:15px;
-  background-color:#d1b0d0;
+  background-image: linear-gradient(to right,#fcf8f8,#e7b7c5);
   cursor:pointer;
 }
 .signup{
