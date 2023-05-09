@@ -68,7 +68,7 @@ p.forget{
 margin-left:115px;
   margin-top:410px;
   position:absolute;
-  color:black;
+  color:rgba(67,29,88,255);
 }
 .or{
   text-align:center;
@@ -115,7 +115,7 @@ margin-left:115px;
 .signup{
   margin-left:65px;
   margin-top:185px;
-  color:black;
+  color:rgba(67,29,88,255);
   text-decoration:none;
   position:absolute;
 }
