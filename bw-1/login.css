@@ -1,0 +1,121 @@
+
+body{
+  display:flex;
+  justify-content:center;
+  align-item:center;
+}
+.box{
+  border-radius:30px;
+  width: 350px;
+  height: 740px; 
+  position:absolute;
+  border-style:solid;
+  border-color:#f8a6aa;
+  border-width:10px;
+  background-image:linear-gradient(#f78295,#f5c8dd);
+}
+
+h2{
+ margin-left:40px;
+  margin-top:115px;
+  position:absolute;
+}
+.uname{
+  border-radius:10px;
+  height:45px;
+  width:220px;
+  border-width:0px;
+  padding:15px 10px;
+  margin-left:60px;
+  margin-top:190px;
+  position:absolute;
+  background-color:#f2bbc8;
+  text-align:center;
+}
+.pwd{
+  border-radius:10px;
+  height:45px;
+  width:220px;
+  border-width:0px;
+  padding:15px 10px;
+  margin-left:60px;
+  margin-top:255px;
+  position:absolute;
+  background-color:#f2bbc8;
+  text-align:center;
+}
+.remember{
+  margin-left:60px;
+  margin-top:315px;
+  position:absolute;
+ 
+}
+.signin{
+  border-radius:10px;
+  border-width:0px;
+  height:45px;
+  width:220px;
+  margin-left:60px;
+  margin-top:375px;
+  padding:10px 10px;
+  position:absolute;
+  font-size:18px;
+  color:white;
+  background-color:rgba(67,29,88,255);
+  cursor:pointer;
+}
+p.forget{
+margin-left:115px;
+  margin-top:410px;
+  position:absolute;
+  color:black;
+}
+.or{
+  text-align:center;
+  color:#1D144D;
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  margin-top:445px;
+}
+.or:before,.or:after {
+    content: "";
+    flex:1 ;
+    border-bottom: 1px solid #000;
+    margin:9px 20px 30px;
+    padding:8px;
+}
+.btn1{
+  border-radius:10px;
+  height:50px;
+  width:220px;
+  border-width:0px;
+  position:absolute;
+   margin-left:60px;
+  margin-top:15px;
+  position:absolute;
+  padding:10px 10px;
+  font-size:15px;
+  background-color:#d1b0d0;
+  cursor:pointer;
+}
+.btn2{
+  border-radius:10px;
+  height:50px;
+  width:220px;
+  border-width:0px;
+  margin-left:60px;
+  margin-top:85px;
+  padding:10px 10px;
+  position:absolute;
+  font-size:15px;
+  background-color:#d1b0d0;
+  cursor:pointer;
+}
+.signup{
+  margin-left:65px;
+  margin-top:185px;
+  color:black;
+  text-decoration:none;
+  position:absolute;
+}
