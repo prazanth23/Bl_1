@@ -2,7 +2,7 @@
 body{
   display:flex;
   justify-content:center;
-  align-item:center;
+  align-items:center;
 }
 .box{
   border-radius:30px;
